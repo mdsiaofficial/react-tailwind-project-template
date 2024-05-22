@@ -1,1 +1,1 @@
-# React + Tailwind+ Vite
+# React + Tailwind + Vite
